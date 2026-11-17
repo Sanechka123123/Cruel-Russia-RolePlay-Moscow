@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Gilroy; 
+    src: url(../fonts/gilroy-bold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: Gilroy;
+    src: url(../fonts/gilroy-black.ttf);
+    font-weight: 800;
+    
+}
+@font-face {
+    font-family: Gilroy;
+    src: url(../fonts/Gilroy-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Bebas; 
+    src: url(../fonts/Bebas.ttf);
+    font-weight: 400;
+}
